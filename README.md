@@ -1,4 +1,4 @@
-# bird's-eye view (BEV) with Inverse Perspective Mapping (IPM)
+# BEV with Inverse Perspective Mapping IPM
  
 Inverse Perspective Mapping (IPM) transforms standard, perspective-distorted 2D images into a perpendicular, 
 top-down Bird's Eye View (BEV). 
